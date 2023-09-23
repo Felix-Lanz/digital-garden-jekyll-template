@@ -2,7 +2,7 @@
 
 Ziele oft sehr abstrakt ("Erfolgreiches Produkt") 
 Abstrakte Ziele müssen daher klar in konkrete Ziele formuliert werden. 
-<img src=Pasted image 20230920075800.png/>
+<img src="Pasted image 20230920075800.png"/>
 Ablauf der Zielbildung
 
 Die Erfassung der Ziele erfolgt durch die Stakeholder, welche meistens die Auftraggeber sind. 
@@ -30,8 +30,9 @@ Ziele sollen daher [[SMART]] sein.
 
 Als Erweiterung oder Verbesserung gibt es daher [[STARKE - Ziele]]
 
-<img src=Pasted image 20230920081615.png/>
-<img src=Pasted image 20230920081621.png/>
+<img src="Pasted image 20230920081615.png"/>
+
+<img src="Pasted image 20230920081621.png"/>
 
 
 Ziele können mit dem MUSCOW-Modell eingeteilt werden

@@ -6,7 +6,7 @@ Voraussetzung:
 - Kreativität
 
 Kreativität beeinflusst durch:
-<img src=Pasted image 20230920082600.png/>
+<img src="Pasted image 20230920082600.png"/>
 
 
 Methoden zur Ideenfindung:
@@ -51,7 +51,7 @@ Versucht zu Aspekten die Positiven-, Negativen-, und Interessanten Aspekte zu fi
 
 Einteilung in Merkmale welche Werte annehmen können. 
 Durch verschiedene kombinationen kann ein Ergebeniss also Idee erreicht werden.
-<img src=Pasted image 20230920083521.png/>
+<img src="Pasted image 20230920083521.png"/>
 
 z.B.: Es handelt sich um einen Sensor, der zur Druckmessung geeignet ist. Der Druck muss durch eine mechanische Konstruktion in eine Wegänderung umgesetzt werden, die dann kapazitiv erfasst wird. Der Sensor soll in Öl bei Temperaturen bis 90 °C einsetzbar sein und eine Genauigkeit von mindestens 1 % besitzen.
 
