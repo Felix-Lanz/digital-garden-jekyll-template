@@ -1,2 +1,5 @@
+---
+title: 
+---
 Maßnahmen um die Sicherheit von Informationssystemen sicherzustellen.
 Informationssysteme inkludiert dabei, die Hardware, Software, Daten, sowie Kommunikationsschnittstellen des Systems. Sicherheit heißt, die Schutzziele, also [[Informationsvertraulichkeit - Confidentiality]], [[Datenintegrität - Integrity]],  [[Verfügbarkeit - Availability]] sicherzustellen. 

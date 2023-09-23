@@ -5,22 +5,28 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Servus! 
 
 ### Führen im Team
 
-[[fit_index]]
+[[Führen im Team Index]]
 
 ### ITSec
 
 [[Kontrollfragen Lektion 1]]
+
 [[Kontrollfragen Lektion 2]]
+
 [[Kontrollfragen Lektion 3]]
 
 
 ### Projektmanagment
 
 [[Projektmanagment]]
+
+### Risikomanagment
+
+[[Risikomanagment]]
 
 <strong>Recently updated notes</strong>
 

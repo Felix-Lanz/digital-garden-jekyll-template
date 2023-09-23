@@ -4,11 +4,12 @@ Der Begriff Projekt impliziert ein Ziel welches klar definiert und auf welchen h
 Nicht nur die aktivem am Projekt beteiligten Personen sollte berücksichtigt werden, sonder auch jene die vom Projekt, bzw. vom Ergebnis des Projekts beeinflusst werden.
 
 
-![[Pasted image 20230919224004.png]]
 
-![[Pasted image 20230919230047.png]]
+<img src=Pasted image 20230919224004.png/>
 
-![[Pasted image 20230919230242.png]]
+<img src=Pasted image 20230919230047.png/>
+
+<img src=Pasted image 20230919230242.png/>
 
 
 Projektmanagmentstandards, die Projektmerkmale zu reduzieren indem:

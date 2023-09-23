@@ -8,7 +8,7 @@ Projektsteckbrief/Projektdefinition -> kompakte Beschreibung des Projekts, dient
 
 
 ### Stakeholder identifizieren - Projektumweld analysieren
-![[Pasted image 20230920164647.png]]
+<img src=Pasted image 20230920164647.png/>
 
 ### Projektauftrag
 Beim Anforderungskatalog auf Vollständigkeit achten. Die Hauptanforderungen sind meisten eh betont und werden nicht übersehen, aber rand- oder nebenanforderungen werden oft übersehen. 
