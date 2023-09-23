@@ -7,7 +7,20 @@ permalink: /
 
 # Welcome! 🌱
 
+### Führen im Team
+
 [[fit_index]]
+
+### ITSec
+
+[[Kontrollfragen Lektion 1]]
+[[Kontrollfragen Lektion 2]]
+[[Kontrollfragen Lektion 3]]
+
+
+### Projektmanagment
+
+[[Projektmanagment]]
 
 <strong>Recently updated notes</strong>
 
