@@ -5,4 +5,4 @@ Hier lässt man die [[spoc - Modell]] phasen überlappen und erreicht dadurch ei
 
 Schwierige Umsetzung, da vieles nicht so klar ist wie beim [[Wasserfallmodell]].
 
-<img src="Pasted image 20230920073310.png"/>
+<img src="Pasted%20image%2020230920073310.png"/>

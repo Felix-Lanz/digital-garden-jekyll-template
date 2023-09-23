@@ -1,3 +1,3 @@
 [[Projektmanagment]]
 
-<img src="Pasted image 20230920080932.png"/>
+<img src="Pasted%20image%2020230920080932.png"/>

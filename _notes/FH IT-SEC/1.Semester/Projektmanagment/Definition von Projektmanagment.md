@@ -6,11 +6,11 @@ Nicht nur die aktivem am Projekt beteiligten Personen sollte berücksichtigt wer
 
 
 
-<img src="Pasted image 20230919224004.png"/>
+<img src="Pasted%20image%2020230919224004.png"/>
 
-<img src="Pasted image 20230919230047.png"/>
+<img src="Pasted%20image%2020230919230047.png"/>
 
-<img src="Pasted image 20230919230242.png"/>
+<img src="Pasted%20image%2020230919230242.png"/>
 
 
 Projektmanagmentstandards, die Projektmerkmale zu reduzieren indem:
