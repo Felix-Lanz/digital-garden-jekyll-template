@@ -1,0 +1,1 @@
+Zielt darauf ab, aus einem betroffenem System Informationen zu extrahieren. Sie verletzen grundsätzlich das Schutzziel der [[Informationsvertraulichkeit - Confidentiality]]

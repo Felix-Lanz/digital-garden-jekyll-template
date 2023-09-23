@@ -1,0 +1,4 @@
+---
+aliases:
+  - Counter Mode
+---

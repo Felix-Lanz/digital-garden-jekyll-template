@@ -1,0 +1,1 @@
+Produkt aus der Eintrittswahrscheinlichtkeit sowie der höhe des Potentiellen Schadens, sollte eine [[Bedrohung - Threat]] ausgenützt werden.

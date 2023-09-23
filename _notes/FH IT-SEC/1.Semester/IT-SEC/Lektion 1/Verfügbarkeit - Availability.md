@@ -1,0 +1,1 @@
+Der Zugang zu Informationen sowie Informationssysteme muss zuverlässig und zeitgerecht sein. 

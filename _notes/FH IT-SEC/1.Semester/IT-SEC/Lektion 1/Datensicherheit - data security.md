@@ -1,0 +1,3 @@
+Hier soll sichergestellt werden, dass keine Daten verloren gehen.
+Beispielsweise, durch einen [[Ransomware]] angriff. Um dies Sicherzustellen, werden neben klassischer IT-Security, welche Angriffe in erster Linie vermeiden und abwehren soll, die Daten durch (offline) Backups redundant geschützt und können im Ernstfall wiederhergestellt werden und ein potenzieller Datenverlust minimiert werden.
+Starkes zusammenspiel mit [[Datenintegrität - Integrity]] und [[Verfügbarkeit - Availability]]
