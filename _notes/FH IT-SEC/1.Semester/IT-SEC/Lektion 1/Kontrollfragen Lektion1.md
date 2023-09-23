@@ -1,5 +1,5 @@
 ---
-title: Kontrollfragen
+title: Kontrollfragen Lektion 1
 ---
 
 1. Versuchen Sie für den Begriff “[[Computer-Security - IT-Security]]” eine Definition mit eigenen Worten zu formulieren.
