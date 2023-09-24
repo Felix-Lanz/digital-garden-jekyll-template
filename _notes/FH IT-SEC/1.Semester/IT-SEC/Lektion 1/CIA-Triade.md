@@ -1,6 +1,3 @@
----
-title: 
----
 Die Schutzziele:
 - [[Informationsvertraulichkeit - Confidentiality]]
 - [[Datenintegrität - Integrity]]

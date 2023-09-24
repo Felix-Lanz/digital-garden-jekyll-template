@@ -1,5 +1,2 @@
----
-title: 
----
 Informationen bzw. Systeme müssen vor unautorisierter Veränderung geschützt werden.
 Veränderung beinhaltet, das Löschen, manipulieren/abändern, sowie korrumpieren von Daten. Findet eine unautorisierte Veränderung statt, muss diese bemerkbar und nachvollziehbar sein. 

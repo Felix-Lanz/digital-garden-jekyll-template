@@ -1,48 +1,21 @@
----
-title: Projektmanagment Kapitel 1-3
----
-
-### Auflistung grob ans Buch angelehnt
-
-
-[[Arbeiten]]
-
-[[Prozess]]
-
-[[Klassifizierung von Projekten]]
-
-[[Systemsicht]]
-
-[[Definition von Projektmanagment]]
-
-[[spoc - Modell]]
-
-[[Wasserfallmodell]]
-
-[[Simultaneous Engieneering]]
-
-[[Spiralmodell]]
-
-[[Agilesmodell]]
-
-[[4 - Was Fragen]]
-
-[[5 - Warum Fragen]]
-
-[[6 - W - Fragen]]
-
-[[Problemstrukturierung]]
-
-[[SMART]]
-
-[[STARKE - Ziele]]
-
-[[Projektziele]]
-
-[[Ideenfindung]]
-
-[[Projekt-Canvas]]
-
-[[Projektgründung]]
-
-[[Pflichtenheft - Lastenheft]]
+![[Arbeiten]]
+![[Prozess]]
+![[Klassifizierung von Projekten]]
+![[Systemsicht]]
+![[Definition von Projektmanagment]]
+![[spoc - Modell]]
+![[Wasserfallmodell]]
+![[Simultaneous Engieneering]]
+![[Spiralmodell]]
+![[Agilesmodell]]
+![[4 - Was Fragen]]
+![[5 - Warum Fragen]]
+![[6 - W - Fragen]]
+![[Problemstrukturierung]]
+![[SMART]]
+![[STARKE - Ziele]]
+![[Projektziele]]
+![[Ideenfindung]]
+![[Projekt-Canvas]]
+![[Projektgründung]]
+![[Pflichtenheft - Lastenheft]]
