@@ -1,9 +1,9 @@
 ---
+title: GCM
 aliases:
   - Galois Counter Mode
 tags:
   - it-sec
-title: GCM
 ---
 Betriebsart, welche [[AEAD|Authenticated Encryption with Associated Data]] bietet. 
 Dadurch wird auch [[Datenintegrität - Integrity|Integrität]] und [[Authentizität - Authenticity|Authentizität]] gewährleistet.
