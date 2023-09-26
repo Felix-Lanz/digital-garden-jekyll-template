@@ -1,7 +1,6 @@
 ---
 title: GCM
-aliases:
-  - Galois Counter Mode
+aliases: []
 tags:
   - it-sec
 ---
